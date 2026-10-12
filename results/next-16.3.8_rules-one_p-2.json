@@ -1,0 +1,12 @@
+{
+  "next": "16.3.8",
+  "loaderRules": "one",
+  "parallelism": "2",
+  "cores": 18,
+  "exitCode": 0,
+  "killedAtLimit": false,
+  "seconds": 8.7,
+  "peakLoaderPoolProcesses": 2,
+  "peakLoaderPoolRssGiB": 0.15,
+  "peakTreeRssGiB": 2.47
+}
